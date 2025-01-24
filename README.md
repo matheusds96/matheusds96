@@ -21,6 +21,5 @@
   <a href="https://instagram.com/matheeus.dutra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusds1996@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-dutra-374372207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/+5586994540858" target="_blank"><img src="[https://png.pngtree.com/element_our/sm/20180626/sm_5b321c99945a2.jpg](https://img.shields.io/badge/https%3A%2F%2Fpng.pngtree.com%2Felement_our%2Fsm%2F20180626%2Fsm_5b321c99945a2.jpg
-)" target="blank"></a>
+  <a href="https://wa.me/+5586994540858" target="_blank"><img src="https://img.shields.io/badge/https%3A%2F%2Fpng.pngtree.com%2Felement_our%2Fsm%2F20180626%2Fsm_5b321c99945a2.jpg" target="blank"></a>
 </div>
